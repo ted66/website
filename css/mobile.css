@@ -55,6 +55,9 @@
 }
 
 @media screen and (max-width: 786px) {
+    nav {
+        height: 60px;
+    }
     .work .flex img {
         width: calc(100% / 2 - 20px);
     }
